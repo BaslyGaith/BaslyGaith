@@ -93,11 +93,11 @@
 
 ---
 
-### 📈 GitHub Intelligence
+### 📈 GitHub Stats & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaslyGaith&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaslyGaith&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BaslyGaith&show_icons=true&theme=dark" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaslyGaith&layout=compact&theme=dark&count_private=true" height="170px"/>
 </p>
 
 ---
