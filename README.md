@@ -96,12 +96,12 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📈 GitHub Stats & Engineering Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaslyGaith&show_icons=true&theme=dark" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaslyGaith&layout=compact&theme=dark&count_private=true" height="170px"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BaslyGaith&theme=dark" width="400px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BaslyGaith&theme=dark" width="400px" />
+</div>
 
 ---
 
