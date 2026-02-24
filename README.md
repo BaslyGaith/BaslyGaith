@@ -73,8 +73,10 @@
 <table border="0">
   <tr>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Entreprise_SOLA-000?style=for-the-badge&logo=next.js&logoColor=white"/><br/>
-      <b>Production Website</b><br/>
+      <a href="https://www.entreprisesolacouverture.fr">
+        <img src="https://img.shields.io/badge/Entreprise_SOLA-000?style=for-the-badge&logo=next.js&logoColor=white"/>
+      </a><br/>
+      <a href="https://www.entreprisesolacouverture.fr"><b>Production Website</b></a><br/>
       <i>Next.js 15 SSR architecture with<br/>premium SEO & Lead systems.</i>
     </td>
     <td width="33%" align="center">
