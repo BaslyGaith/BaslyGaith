@@ -18,15 +18,17 @@ My name is **Mohamed Gaith Basly** and I'm a **Data & SOC Analyst** at **VERMEG*
 ### I code with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,js,nextjs,tailwind,react,oracle,git,github,powershell,linux" />
+  <img src="https://skillicons.dev/icons?i=python,sql,java,js,angular,nextjs,tailwind,react,oracle,git,github,powershell,linux" />
 </p>
 
-### I analyze with
+### I analyze & secure with
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/ETL_Pipelines-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AD-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/SOC_Monitoring-red?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-blue?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ---
