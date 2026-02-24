@@ -4,13 +4,10 @@
 ### **Information Systems Engineer | Data Intelligence & Cyber-Resilience**
 *"Architecting secure data ecosystems and intelligent analytics solutions"*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=001524&height=120&section=header&text=Data%20Intelligence%20%26%20Security&fontSize=30&fontColor=ffffff" width="100%"/>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-gaith-basly/fr/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedgaithb@gmail.com)
-[![Enterprise](https://img.shields.io/badge/VERMEG-Data_%26_SOC_Analyst-red?style=for-the-badge)](https://www.vermeg.com)
 
 </div>
 
@@ -51,7 +48,7 @@
       <h3>🏗️ Architecture Domains</h3>
       <ul>
         <li>⚡ <b>ETL & Data Integration</b></li>
-        <li>🏗️ <b>Data Warehousing (Star/Snowflake)</b></li>
+        <li>🏗️ <b>Data Modeling & Warehousing</b></li>
         <li>🔌 <b>Secure REST API Design</b></li>
         <li>🤖 <b>Process Automation (RPA/Scripts)</b></li>
         <li>🛡️ <b>System Security Hardening</b></li>
@@ -114,5 +111,5 @@
 
 ---
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it%20securely." width="80%" />
+  <i>"Transforming Complex Data into Secure Intelligence"</i>
 </div>
