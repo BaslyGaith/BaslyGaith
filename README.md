@@ -60,9 +60,9 @@
       <img src="https://geps.dev/progress/100?successColor=00ff00" width="100%" />
       <p><b>French Proficiency: DELF B2</b></p>
       <img src="https://geps.dev/progress/100?successColor=00ff00" width="100%" />
-      <p><b>Microsoft DP-600: Azure Data Engineer</b></p>
-      <img src="https://geps.dev/progress/80?warningColor=ffcc00" width="100%" />
-      <p align="right"><small>DP-600 Study in Progress (80%)</small></p>
+      <p><b>Microsoft DP-600: Fabric Analytics Engineer</b></p>
+      <img src="https://geps.dev/progress/85?warningColor=ffcc00" width="100%" />
+      <p align="right"><small>Fabric Exam Prep @ Coursera (85%)</small></p>
     </td>
   </tr>
 </table>
