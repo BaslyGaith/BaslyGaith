@@ -42,7 +42,9 @@
     <td width="40%" valign="top">
       <h3>💻 Core Tech Stack</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=python,sql,java,js,angular,nextjs,tailwind,react,oracle,git,github,powershell,linux,azure,docker" />
+        <img src="https://skillicons.dev/icons?i=python,sql,java,js,angular,nextjs,tailwind,react,oracle,git,github,powershell,linux,azure,docker" /><br/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="25px"/>
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="25px"/>
       </p>
       <br/>
       <h3>🏗️ Architecture Domains</h3>
