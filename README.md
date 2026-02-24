@@ -1,8 +1,10 @@
+<div align="center">
+
 # Mohamed Gaith Basly
 ### **Information Systems Engineer | Data Intelligence & Cyber-Resilience**
 *"Architecting secure data ecosystems and intelligent analytics solutions"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:001524,100:003554&height=220&section=header&text=Data%20Intelligence%20%26%20Security&fontSize=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:001524,100:003554&height=200&section=header&text=Data%20Intelligence%20%26%20Security&fontSize=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-gaith-basly/fr/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedgaithb@gmail.com)
@@ -27,7 +29,7 @@
         <li><b>Pipeline Architecture:</b> Design of scalable, fault-tolerant ingestion layers.</li>
         <li><b>Database Mastery:</b> Optimization of Oracle, SQL Server, and PostgreSQL environments.</li>
         <li><b>BI Ecosystems:</b> Implementation of advanced DAX and Data Modeling in Power BI.</li>
-        <li><b>Automation:</b> Development of Selenium-based robots for complex web data extraction.</li>
+        <li><b>Automation:</b> Development of Selenium-based robots for complex data extraction.</li>
       </ul>
       <br/>
       <h3>🛡️ Cybersecurity & Resilience</h3>
@@ -67,7 +69,7 @@
 
 ---
 
-### � High-impact Portfolio
+### 💼 High-impact Portfolio
 
 <table border="0">
   <tr>
