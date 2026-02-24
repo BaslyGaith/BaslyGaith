@@ -4,11 +4,13 @@
 ### **Information Systems Engineer | Data Intelligence & Cyber-Resilience**
 *"Architecting secure data ecosystems and intelligent analytics solutions"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:001524,100:003554&height=200&section=header&text=Data%20Intelligence%20%26%20Security&fontSize=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=001524&height=120&section=header&text=Data%20Intelligence%20%26%20Security&fontSize=30&fontColor=ffffff" width="100%"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-gaith-basly/fr/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedgaithb@gmail.com)
-[![Expertise](https://img.shields.io/badge/VERMEG-Data_%26_SOC_Analyst-red?style=for-the-badge)](https://www.vermeg.com)
+[![Enterprise](https://img.shields.io/badge/VERMEG-Data_%26_SOC_Analyst-red?style=for-the-badge)](https://www.vermeg.com)
 
 </div>
 
