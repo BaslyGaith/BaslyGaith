@@ -1,10 +1,8 @@
-<div align="center">
-
 # Mohamed Gaith Basly
-### **Data Engineer | Cybersecurity Engineer | BI Engineer**
-*"Transforming Complex Data into Secure & Actionable Intelligence"*
+### **Information Systems Engineer | Data Intelligence & Cyber-Resilience**
+*"Architecting secure data ecosystems and intelligent analytics solutions"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:001524,100:003554&height=220&section=header&text=Information%20Systems%20Engineer&fontSize=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:001524,100:003554&height=220&section=header&text=Data%20Intelligence%20%26%20Security&fontSize=35&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-gaith-basly/fr/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedgaithb@gmail.com)
@@ -19,9 +17,9 @@
     <td width="60%" valign="top">
       <h3>🚀 Engineering Profile</h3>
       <ul>
-        <li><b>Lead Information Systems Engineer</b> at VERMEG, specialized in the synergy between Data Power and System Resilience.</li>
-        <li>Architect of <b>enterprise ETL pipelines</b> and <b>Security Operations Center (SOC)</b> workflows.</li>
-        <li>Expert in bridging Business Intelligence with high-level Cybersecurity frameworks.</li>
+        <li><b>Information Systems Engineer</b> at VERMEG, focused on the convergence of <b>Data Architecture</b> and <b>Enterprise Security</b>.</li>
+        <li>Specialized in building <b>secure-by-design</b> data pipelines and high-resilience analytics platforms.</li>
+        <li>Bridging the gap between <b>Deep Analytics (BI)</b> and <b>Security Operations (SOC)</b>.</li>
       </ul>
       <br/>
       <h3>📊 Advanced Data Engineering</h3>
